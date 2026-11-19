@@ -12,8 +12,7 @@ A high-performance, dynamic photo-gallery style sub-grid view for Flutter with *
   </video>
 </p>
 
-> 📹 **Video Demo**: [Screen_recording_20261116_101438.mp4](Screen_recording_20261116_101438.mp4)
-
+> 📹 **Video Demo**: https://github.com/user-attachments/assets/ed70115a-3c3d-49d9-8c52-979fc3be53e4
 ---
 
 ## ✨ Features
